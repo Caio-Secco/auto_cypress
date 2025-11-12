@@ -1,0 +1,64 @@
+{
+  "usuario": [
+    {
+      "name": "Caio Secco",
+      "cpf": "12748747933",
+      "email": "caio@teste.com",
+      "senha": "123",
+      "telefone": "489966250001",
+      "cep": "89215050",
+      "rua": "Rua Brasil",
+      "numero": "299",
+      "complemento": "Casa de esquina",
+      "estado": "SC"
+    },
+    {
+      "name": "Marina Lopes",
+      "cpf": "32478965210",
+      "email": "marina.lopes@teste.com",
+      "senha": "senha456",
+      "telefone": "11987563421",
+      "cep": "04567010",
+      "rua": "Avenida Paulista",
+      "numero": "1500",
+      "complemento": "Ap 501",
+      "estado": "SP"
+    },
+    {
+      "name": "Lucas Andrade",
+      "cpf": "87562341905",
+      "email": "lucas.andrade@teste.com",
+      "senha": "teste789",
+      "telefone": "31991234567",
+      "cep": "30140071",
+      "rua": "Rua da Bahia",
+      "numero": "212",
+      "complemento": "Sala 3",
+      "estado": "MG"
+    },
+    {
+      "name": "Fernanda Silva",
+      "cpf": "45678912300",
+      "email": "fernanda.silva@teste.com",
+      "senha": "abc123",
+      "telefone": "51997325468",
+      "cep": "90010140",
+      "rua": "Rua dos Andradas",
+      "numero": "980",
+      "complemento": "Cobertura",
+      "estado": "RS"
+    },
+    {
+      "name": "Rafael Costa",
+      "cpf": "98765432199",
+      "email": "rafael.costa@teste.com",
+      "senha": "minhasenha",
+      "telefone": "21988997766",
+      "cep": "20040002",
+      "rua": "Rua da Assembléia",
+      "numero": "100",
+      "complemento": "Sala 204",
+      "estado": "RJ"
+    }
+  ]
+}
